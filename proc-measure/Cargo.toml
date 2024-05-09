@@ -1,0 +1,10 @@
+[package]
+name = "proc-measure"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = "0.2.153"
+serde_json = "1.0.116"
+statrs = "0.16.0"
+syscalls = "0.6.18"
